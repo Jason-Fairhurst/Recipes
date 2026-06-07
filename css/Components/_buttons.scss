@@ -13,13 +13,13 @@
     &:hover {
         text-decoration: underline;
     }
+}
 
-    .panel {
-        display: none;
-        background-color: $primary-bg-color;
-        padding: 0 18px;
-        overflow: hidden;
-    }
+.panel {
+    display: none;
+    background-color: $primary-bg-color;
+    padding: 0 18px;
+    overflow: hidden;
 }
 
 .Starters,
