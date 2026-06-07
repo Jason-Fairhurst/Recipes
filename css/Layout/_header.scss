@@ -1,0 +1,24 @@
+header {
+    background-color: $primary-bg-color;
+
+    .logo-banner {
+        width: 320px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 14px 17px;
+        margin: auto;
+        border-bottom: 1px solid $font-color;
+
+        .home-button {
+            margin: auto;
+        }
+
+        .logo {
+            margin: 0px;
+            font-size: 30px;
+            font-weight: 400;
+
+        }
+    }
+}

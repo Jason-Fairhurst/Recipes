@@ -1,0 +1,32 @@
+.accordion {
+    width: 100%;
+    cursor: pointer;
+    padding: 18px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    background-color: $primary-bg-color;
+    transition: 0.4s;
+
+    &:hover {
+        text-decoration: underline;
+    }
+
+    .panel {
+        display: none;
+        background-color: $primary-bg-color;
+        padding: 0 18px;
+        overflow: hidden;
+    }
+}
+
+.Starters,
+.Mains,
+.Sides,
+.Dessert {
+    width: 320px;
+    border-bottom: 1px solid $font-color;
+    user-select: none;
+}

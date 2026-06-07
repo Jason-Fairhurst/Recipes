@@ -1,0 +1,64 @@
+/******* General *******/
+* {
+    font-family: 'Roboto';
+    color: $font-color;
+}
+
+*:focus {
+    outline: 1px dashed $font-color;
+}
+
+body {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    background-color: $primary-bg-color;
+}
+
+h1 {
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+h3 {
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+    color: inherit;
+}
+
+.logo-banner{
+    a {
+        text-decoration: none;
+    }
+}
+
+a {
+    color: $font-color;
+    text-decoration: underline;
+
+    &:hover {
+        color: black;
+    }
+}
+
+ul {
+    margin-top: 0;
+}
+
+li {
+    padding: 5px;
+}
+
+.main-container {
+    width: 100%;
+    min-width: 320px;
+    max-width: 1920px;
+}
