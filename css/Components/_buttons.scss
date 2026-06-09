@@ -27,7 +27,9 @@
 .Mains,
 .Sides,
 .Dessert {
-    width: 320px;
-    border-bottom: 1px solid $primary;
+    width: 65vw;
+    min-width: 320px;
+    max-width: 480px;
+    border-bottom: 1px solid rgb(24, 51, 84);
     user-select: none;
 }

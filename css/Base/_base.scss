@@ -51,13 +51,20 @@ a {
 
 ul {
     margin-top: 0;
+    padding-left: 10px;
 }
 
 li {
     padding: 5px;
 }
 
+input {
+    width: 18px;
+    height: 18px;
+}
+
 .main-container {
     min-width: 320px;
-    max-width: 1920px;
+    max-width: 1024px;
+    margin: auto;
 }

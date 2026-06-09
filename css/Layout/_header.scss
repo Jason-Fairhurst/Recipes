@@ -1,5 +1,7 @@
 header {
     background-color: $primary;
+    width: 100%;
+    min-width: 320px;
 
     .logo-banner {
         display: flex;
@@ -16,7 +18,7 @@ header {
         .logo {
             margin: 0px;
             font-size: 30px;
-            font-weight: 400;
+            font-weight: bold;
 
         }
     }
