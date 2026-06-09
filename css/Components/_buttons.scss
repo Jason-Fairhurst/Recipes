@@ -4,9 +4,10 @@
     padding: 18px;
     border: none;
     outline: none;
-    font-size: 15px;
+    font-size: 22px;
     font-weight: bold;
     text-align: center;
+    color: $primary;
     background-color: $primary-bg-color;
     transition: 0.4s;
 
@@ -27,6 +28,6 @@
 .Sides,
 .Dessert {
     width: 320px;
-    border-bottom: 1px solid $font-color;
+    border-bottom: 1px solid $primary;
     user-select: none;
 }

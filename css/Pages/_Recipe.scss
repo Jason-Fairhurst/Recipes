@@ -1,0 +1,20 @@
+.RecipeNameImg {
+    display: flex;
+    width: 60%;
+}
+
+.RecipeImg {
+    width: 60%;
+}
+
+.RecipeName {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    color: $font-color-light;
+    background: $primary;
+    font-weight: bold;
+}

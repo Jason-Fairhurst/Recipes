@@ -10,13 +10,12 @@
 
 body {
     margin: auto;
-    display: flex;
-    justify-content: center;
     background-color: $primary-bg-color;
 }
 
 h1 {
     text-decoration: none;
+    color: $font-color-light;
 }
 
 h2 {
@@ -27,6 +26,7 @@ h2 {
 
 h3 {
     margin: 0px;
+    color: $primary;
 }
 
 p {
@@ -34,7 +34,7 @@ p {
     color: inherit;
 }
 
-.logo-banner{
+.logo-banner {
     a {
         text-decoration: none;
     }
@@ -58,7 +58,6 @@ li {
 }
 
 .main-container {
-    width: 100%;
     min-width: 320px;
     max-width: 1920px;
 }
