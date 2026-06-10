@@ -27,25 +27,29 @@
                 "Have a taste of the soup and add in the salt if needed (it depends on the saltiness of your stock).",
                 "Divide between bowls and garnish with chopped spring onions."
             ]
-        },
-        "Starter 2": {
-            "ImageLocation": "",
-            "Ingredients": [
-                ""
-            ],
-            "Instructions": [
-                ""
-            ]
         }
     },
     "Mains": {
-        "Main 1": {
-            "ImageLocation": "",
+        "Bacon_Pasta": {
+            "ImageLocation": "./Images/Mains/Bacon-Pasta.jpg",
             "Ingredients": [
-                ""
+                "350g penne pasta",
+                "1 tbsp olive oil",
+                "175g piece rindless streaky bacon",
+                "1 small onion, finely chopped",
+                "2 garlic cloves, finely chopped",
+                "1 tsp sweet or smoked paprika",
+                "1 red chilli, seeded and finely chopped",
+                "400ml passata (sieved tomatoes)",
+                "Pinch of sugar",
+                "Small handful fresh basil leaves, roughly torn",
+                "Salt and freshly ground black pepper"
             ],
             "Instructions": [
-                ""
+                "Tip the penne into a pan of boiling, salted water, stir once, then cook for 10-12 minutes until al dente or according to packet instructions.",
+                "Meanwhile, heat the olive oil in a saute pan and fry the bacon for a couple of minutes until crispy. Add the onion and cook for another minute or two until softened, stirring occasionally.",
+                "Add the garlic with paprika and chilli and cook for about 30 seconds, stirring. Stir in the passata and cook for 1-2 minutes until heated through",
+                "Add the sugar and season to taste. When the pasta is cooked, drain well and then return to the pan. Pour in the tomato mixture and add the basil, then fold everything together until well combined."
             ]
         }
     },

@@ -6,17 +6,21 @@ let instructions = [];
 
 initApp("Chicken_and_Sweetcorn_Soup");
 
-function initApp(Recipe) {
+function initApp() {
+    let URLparameters = new URLSearchParams(window.location.search);
+    let course = URLparameters.get("CourseName");
+    let recipe = URLparameters.get("RecipeName");
+
     fetch(`Recipes.json`)
         .then(response => response.json())
         .then(data => {
             listAllItems = data;
-            // listAllItems[Object.keys(listAllItems)[0]] returns Chicken_and_Sweetcorn_Soup section
-            imageLocation = listAllItems.Starters.Chicken_and_Sweetcorn_Soup.ImageLocation;
-            ingredients = listAllItems.Starters.Chicken_and_Sweetcorn_Soup.Ingredients;
-            instructions = listAllItems.Starters.Chicken_and_Sweetcorn_Soup.Instructions;
 
-            addDataToHTML();
+            imageLocation = listAllItems[course][recipe].ImageLocation;
+            ingredients = listAllItems[course][recipe].Ingredients;
+            instructions = listAllItems[course][recipe].Instructions;
+
+            addDataToHTML(recipe);
         });
 }
 
@@ -46,8 +50,8 @@ function addDataToHTML(Recipe) {
 
     listProductHTML.innerHTML += `
         <section class="RecipeNameImg">
-            <img class="RecipeImg" src=${imageLocation} alt="">
-            <h2 class="RecipeName">Chicken and Sweetcorn Soup</h2>
+            <img class="RecipeImg" src=${imageLocation} alt=${Recipe}>
+            <h2 class="RecipeName">${Recipe.replaceAll("_"," ")}</h2>
         </section>
         <section class="Ingredients">
             <h3>Ingredients</h3>
