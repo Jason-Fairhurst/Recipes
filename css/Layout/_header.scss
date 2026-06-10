@@ -1,15 +1,13 @@
 header {
-    background-color: $primary;
     width: 100%;
     min-width: 320px;
 
     .logo-banner {
         display: flex;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
-        padding: 14px 17px;
         margin: auto;
-        border-bottom: 1px solid $font-color;
 
         .home-button {
             margin: auto;
@@ -17,9 +15,15 @@ header {
 
         .logo {
             margin: 0px;
+            padding: 14px 17px;
             font-size: 30px;
             font-weight: bold;
+        }
 
+        .Bar {
+            width: 100%;
+            height: 20px;
+            background: $primary;
         }
     }
 }

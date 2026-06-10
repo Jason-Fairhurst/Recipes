@@ -48,41 +48,116 @@
             "Instructions": [
                 "Tip the penne into a pan of boiling, salted water, stir once, then cook for 10-12 minutes until al dente or according to packet instructions.",
                 "Meanwhile, heat the olive oil in a saute pan and fry the bacon for a couple of minutes until crispy. Add the onion and cook for another minute or two until softened, stirring occasionally.",
-                "Add the garlic with paprika and chilli and cook for about 30 seconds, stirring. Stir in the passata and cook for 1-2 minutes until heated through",
+                "Add the garlic with paprika and chilli and cook for about 30 seconds, stirring. Stir in the passata and cook for 1-2 minutes until heated through.",
                 "Add the sugar and season to taste. When the pasta is cooked, drain well and then return to the pan. Pour in the tomato mixture and add the basil, then fold everything together until well combined."
             ]
         }
     },
     "Sides": {
-        "Sides 1": {
-            "ImageLocation": "",
+        "Egg_Fried_Rice": {
+            "ImageLocation": "./Images/Sides/egg-fried-rice.jpg",
             "Ingredients": [
-                ""
+                "250g simply cooked Jasmine Rice, cooled",
+                "1 tablespoon vegetable oil",
+                "1 egg",
+                "80g petit pois",
+                "1–2 tablespoons light soy sauce",
+                "1 teaspoon sesame oil"
             ],
             "Instructions": [
-                ""
+                "Put the cooked rice into a small bowl and separate the grains as much as possible.",
+                "In a separate small bowl, crack your egg and whisk until smooth.",
+                "Heat your pan on the highest heat (10/10). When it is fully heated, add 1/2 tbsp of vegetable oil, swirling it around until it reaches smoking point.",
+                "Carefully pour the egg into the center bringing the heat down slightly (7/10), slowly break up the egg while moving it around the pan so it doesn't burn.",
+                "Now push the egg to one side and add another 1/2 tbsp of vegetable oil and bring back to a high heat (9/10). Then add your rice and mix well with the egg, trying to separate the rice grains with your ladle.",
+                "Once the rice is well mixed, add the peas and continue to stir-fry for 1 minute.",
+                "Add both soy sauce and sesame oil over the rice, turning the heat down slightly (7/10) and stir-frying until the rice has absorbed all the soy and become drier ~1 minute.",
+                "Once the grains of rice are 'jumping' around the bottom of your pan, the rice is ready."
+            ]
+        },
+        "Onion_Fried_Rice": {
+            "ImageLocation": "./Images/Sides/onion-fried-rice.webp",
+            "Ingredients": [
+                "200 grams basmati rice, cooled",
+                "1 tsp ginger & garlic Paste",
+                "1 tbsp oil",
+                "1 tsp cumin seeds",
+                "2 medium onions (long slices)",
+                "4 green Chillis",
+                "1 tbsp curry leaves (finely chopped)",
+                "2 tbsp coriander (finely chopped)",
+                "1 tsp turmeric",
+                "1 tsp red chilli powder",
+                "2 to 3 tsp lemon/lime juice",
+                "2 broken dried red chillis"
+            ],
+            "Instructions": [
+                "Heat oil in a wok/pan. Add green chillies, dried red chillie, curry leves and cumin seeds. Saute for 1 min.",
+                "Mix sliced onions and fry continue till onion turns light brown.",
+                "Add ginger garlic paste and suate until the raw smell goes away.",
+                "To add red chilli powder & turmeric/haldi and mix well.",
+                "Now add cooked rice, salt, and lime/lemon juice. Mix well",
+                "Make sure, you need to keep each and every grain of rice separate. Garnish with freshly chopped coriander and some brown onions."
+            ]
+        },
+        "Roast_Baby_Potatoes": {
+            "ImageLocation": "./Images/Sides/baby-roast-potatoes.jpg",
+            "Ingredients": [
+                "1 kg/ 2 lb baby potatoes",
+                "4 tbsp olive oil",
+                "1 tsp salt",
+                "1/4 tsp black pepper",
+                "5 garlic cloves with skin on , smashed",
+                "5 thyme sprigs or 3 rosemary sprigs",
+                "Finely chopped parsley or fresh thyme (optional)"
+            ],
+            "Instructions": [
+                "Preheat oven to 200°C / 400°F (180°C fan).",
+                "Smashed garlic – Place side of knife on unpeeled garlic clove. Hit firmly with palm of hand so the garlic bursts open a bit but mostly stays in tact.",
+                "Toss – Put potatoes on a tray and push together. Drizzle with oil, sprinkle with salt and pepper. Toss to coat. Toss through thyme and garlic. Spread out on tray.",
+                "Roast 1 hour – Roast for 30 minutes. Toss. Roast for a further 25 to 35 minutes, or until the potatoes are golden.",
+                "Serve – Sprinkle with parsley, if using, and serve immediately!"
             ]
         }
     },
     "Dessert": {
-        "Dessert 1": {
-            "ImageLocation": "",
+        "Toblerone_Cheesecake": {
+            "ImageLocation": "./Images/Desserts/Toblerone-cheesecake.jpg",
             "Ingredients": [
-                ""
+                "200g Digestive Biscuits (Chocolate Digestives are best)",
+                "100g Butter",
+                "300g Cream Cheese",
+                "200g Whipping Cream",
+                "200g Toblerone"
             ],
             "Instructions": [
-                ""
+                "Crush the digestives, and melt the butter in a pan. Once melted, add the digestives to the butter and mix together.",
+                "Place the base mixture in a springform cake tin (approx 8 inches) and press down until firm and even.",
+                "Melt the Toblerone in a bowl over a pot of simmering water.",
+                "Empty the cheese into a large bowl and beat until smooth. Lightly whisk the cream until almost stiff and then add to the cheese.",
+                "Add the melted toblerone to the mixture and mix well (the whole mixture should be light brown).",
+                "Pour the mixture onto the base, smoothing out. Bang the cake tin on a solid surface to ensure the mixture settles.",
+                "Refrigerate for 2-3 hours, then add some small pieces of chocolate to the top to serve."
             ]
         }
     },
     "Miscellaneous": {
-        "Miscellaneous 1": {
-            "ImageLocation": "",
+        "Taco_Seasoning": {
+            "ImageLocation": "./Images/Miscellaneous/Taco-Seasoning.jpg",
             "Ingredients": [
-                ""
+                "1 tsp garlic powder",
+                "1 tsp onion powder",
+                "1 tsp dried oregano",
+                "2 tsp cumin powder",
+                "2 tsp paprika",
+                "1/4 tsp chilli powder",
+                "1 tsp salt",
+                "1/4 tsp black pepper"
             ],
             "Instructions": [
-                ""
+                "Combine ingredients.",
+                "Store in an airtight container.",
+                "Makes 2.5 tablespoons. Combine with 1lbs/500g mince meat, 1/2 cup water, 1 diced onion and 2 tablespoons of tomato paste."
             ]
         }
     }
