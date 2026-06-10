@@ -121,6 +121,37 @@
         }
     },
     "Dessert": {
+        "Berry_Crumble_Cheesecake": {
+            "ImageLocation": "./Images/Desserts/Berry-crumble-cheesecake.jpg",
+            "Ingredients": [
+                "100g plain flour - Crumble topping",
+                "30g sugar - Crumble topping",
+                "50g melted butter - Crumble topping",
+                "200g mixed berries (fresh or frozen) - Berry layer",
+                "500g cream cheese or mascarpone, softened - Cheesecake filling",
+                "150g double cream - Cheesecake filling",
+                "3 tbsp plain flour - Cheesecake filling",
+                "1 egg - Cheesecake filling",
+                "2 tsp vanilla extract - Cheesecake filling",
+                "100g sugar - Cheesecake filling",
+                "2 tsp lemon zest - Cheesecake filling",
+                "1 tsp lemon juice - Cheesecake filling",
+                "200g Digestive Biscuits, crushed - Biscuit base",
+                "1 tbsp sugar - Biscuit base",
+                "100g melted butter - Biscuit base"
+            ],
+            "Instructions": [
+                "Preheat oven to 180°C.",
+                "To prepare the biscuit base, mix the crushed digestive biscuits, sugar, and melted butter. Press this mixture firmly into the base of a lined 20cm springform tin and refrigerate to firm up.",
+                "For the crumble topping, combine the flour, sugar, and melted butter until it forms a crumbly texture.",
+                "In a large bowl, whisk together the cream cheese, double cream, flour, egg, vanilla extract, sugar, lemon zest, and lemon juice until smooth and well-blended.",
+                "Pour the cheesecake mixture over the chilled biscuit base, smoothing the top evenly.",
+                "Layer the mixed berries on top of the cheesecake, then sprinkle the crumble topping evenly over the berries.",
+                "Bake for around 1 hour, or until the top is golden and the center has a slight wobble.",
+                "Let the cheesecake cool for 2 hours in the tin, then refrigerate for at least 8 hours to full set.",
+                "Before serving, dust with icing sugar and top with fresh berries for an extra touch."
+            ]
+        },
         "Toblerone_Cheesecake": {
             "ImageLocation": "./Images/Desserts/Toblerone-cheesecake.jpg",
             "Ingredients": [
@@ -138,6 +169,81 @@
                 "Add the melted toblerone to the mixture and mix well (the whole mixture should be light brown).",
                 "Pour the mixture onto the base, smoothing out. Bang the cake tin on a solid surface to ensure the mixture settles.",
                 "Refrigerate for 2-3 hours, then add some small pieces of chocolate to the top to serve."
+            ]
+        },
+        "Mince_Pies": {
+            "ImageLocation": "./Images/Desserts/Mince-pie.jpg",
+            "Ingredients": [
+                "600g mincemeat",
+                "2 satsumas segmented and finely chopped",
+                "1 apple finely chopped",
+                "Zest 1 lemon",
+                "Icing sugar for dusting",
+                "375g plain flour",
+                "260g softened unsalted butter",
+                "125g caster sugar",
+                "1 large egg (plus 1 beaten egg for glazing)"
+            ],
+            "Instructions": [
+                "Place 375g plain flour and 260g softened unsalted butter in a bowl and rub together to a crumb consistency.",
+                "Add 125g caster sugar and 1 large beaten egg, and mix together.",
+                "Tip out onto a lightly floured surface and fold until the pastry comes together, be careful not to over mix.",
+                "Wrap the pastry in cling film and chill for 10 mins.",
+                "Scoop the mincemeat into a bowl and add 2 segmented satsumas, 1 finely chopped apple and zest of 1 lemon.",
+                "Heat oven to 220C/200C fan/gas 7.",
+                "Roll out the pastry to 3mm thick.",
+                "Using a round cutter (about 10cm), cut out 16 bases and place them into muffin trays. Put 1½ tbsp mincemeat mixture into each. Brush the edge of each pie with a little beaten egg.",
+                "Re-roll out the pastry to cut 7cm lids and press them on top to seal. Glaze with the beaten egg, sprinkle with the extra caster sugar, then make a small cut in the tops.",
+                "Bake the mince pies for 15-20 mins until golden brown. Leave to cool before releasing them from the muffin trays and dusting with a little more icing sugar before serving."
+            ]
+        },
+        "Scones": {
+            "ImageLocation": "./Images/Desserts/Scones.jpg",
+            "Ingredients": [
+                "350g self-raising flour",
+                "1 tsp baking powder",
+                "85g butter, cut into cubes",
+                "3 tbsp caster sugar",
+                "175ml milk",
+                "1 tsp vanilla extract",
+                "Squeeze lemon juice",
+                "Beaten egg to glaze",
+                "Jam and clotted cream to serve"
+            ],
+            "Instructions": [
+                "Heat the oven to 220°C/200°C fan/gas 7. Tip the self-raising flour into a large bowl with ¼ tsp salt and the baking powder, then mix.",
+                "Add the butter, then rub in with your fingers until the mix looks like fine crumbs. Stir in the caster sugar.",
+                "Put the milk into a jug and heat in the microwave for about 30 secs until warm, but not hot. Add the vanilla extract and a squeeze of lemon juice, then set aside for a moment.",
+                "Put a baking tray in the oven. Make a well in the dry mix, then add the liquid and combine it quickly with a cutlery knife – it will seem pretty wet at first.",
+                "Scatter some flour onto the work surface and tip the dough out. Dredge the dough and your hands with a little more flour, then fold the dough over 2-3 times until it’s a little smoother. Pat into a round about 4cm deep. Take a 5cm cutter (smooth-edged cutters tend to cut more cleanly, giving a better rise) and dip it into some flour. Plunge into the dough, then repeat until you have four scones. You may need to press what’s left of the dough back into a round to cut out another four.",
+                "Brush the tops with a beaten egg, then carefully arrange on the hot baking tray. Bake for 10 mins until risen and golden on the top. Eat just warm or cold on the day of baking, generously topped with jam and clotted cream. If freezing, freeze once cool. Defrost, then put in a low oven (about 160C/140C fan/gas 3) for a few minutes to refresh."
+            ]
+        },
+        "Victoria_Sponge_Cake": {
+            "ImageLocation": "./Images/Desserts/victoria-sponge.jpg",
+            "Ingredients": [
+                "250g butter, softened",
+                "300g self-raising flour",
+                "250g golden caster sugar",
+                "1/2 tsp baking powder",
+                "4 eggs",
+                "150ml natural yogurt",
+                "3 tbsp milk",
+                "1 tsp vanilla extract",
+                "500ml double cream",
+                "100g icing sugar"
+            ],
+            "Instructions": [
+                "Preheat the oven to 180°C/350°F/Gas 4.",
+                "Grease and line 2 x 18cm/7inch cake tins with baking paper.",
+                "Cream the butter and sugar together in a bowl until pale and fluffy.",
+                "Beat in the eggs, a little at a time, and stir in the vanilla extract.",
+                "Fold in the flour using a large spoon, adding a little extra milk if necessary, to create a batter with a soft dropping consistency.",
+                "Divide the mixture between the cake tins and gently spread out with a spatula.",
+                "Bake for 20-25 minutes, or until golden-brown on top and a skewer inserted into the middle comes out clean.",
+                "Remove from the oven and set aside for 5 minutes, then remove from the tin and peel off the paper. Place onto a wire rack.",
+                "Whip the cream with a whisk until it forms soft peaks.",
+                "Sandwich the cakes together with the whipped cream and Jam. Dust with icing sugar."
             ]
         }
     },
