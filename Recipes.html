@@ -16,11 +16,21 @@
 <body>
     <header>
         <div class="logo-banner">
+            <div class="dropDown">
+                <a href="javascript:void(0);" class="icon" onclick="navDropdown()">
+                    <div class="mobileBar1"></div>
+                    <div class="mobileBar2"></div>
+                    <div class="mobileBar3"></div>
+                </a>
+                <div class="dropdown-content">
+                    <a href="#">test</a>
+                </div>
+            </div>
             <a href="index.html" class="home-button">
                 <h1 class="logo" id="HeaderLogo">Recipes</h1>
             </a>
-            <div class="Bar"></div>
         </div>
+        <div class="Bar"></div>
     </header>
 
     <main>
@@ -36,5 +46,6 @@
 </body>
 
 <script src="RecipeLoader.js"></script>
+<script src="navBarScripts.js"></script>
 
 </html>
