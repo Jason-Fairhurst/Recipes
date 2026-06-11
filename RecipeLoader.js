@@ -51,7 +51,7 @@ function addDataToHTML(Recipe) {
     listProductHTML.innerHTML += `
         <section class="RecipeNameImg">
             <img class="RecipeImg" src=${imageLocation} alt=${Recipe}>
-            <h2 class="RecipeName">${Recipe.replaceAll("_"," ")}</h2>
+            <h2 class="RecipeName">${Recipe.replaceAll("_", " ")}</h2>
         </section>
         <section class="Ingredients">
             <h3>Ingredients</h3>

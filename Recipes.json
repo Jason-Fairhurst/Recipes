@@ -51,6 +51,189 @@
                 "Add the garlic with paprika and chilli and cook for about 30 seconds, stirring. Stir in the passata and cook for 1-2 minutes until heated through.",
                 "Add the sugar and season to taste. When the pasta is cooked, drain well and then return to the pan. Pour in the tomato mixture and add the basil, then fold everything together until well combined."
             ]
+        },
+        "Beef_Burrito": {
+            "ImageLocation": "./Images/Mains/beef-burritos.jpg",
+            "Ingredients": [
+                "1 tsp each onion powder , dried oregano, salt",
+                "2 tsp each dried cumin powder , paprika",
+                "1/4 tsp black pepper",
+                "1/4 tsp cayenne pepper , or to taste (optional)",
+                "1/2 tbsp olive oil",
+                "2 garlic cloves",
+                "1/2 onion , finely chopped",
+                "500g / 1 lb beef mince (ground beef)",
+                "2 tbsp tomato purée",
+                "3 tbsp water",
+                "6 – 8 large soft flour tortillas or round wraps (~25cm/10”)",
+                "3 cups cooked rice , warm not piping hot",
+                "3 cups iceberg lettuce or cabbage , finely sliced",
+                "1 cup corn",
+                "1 cup black beans",
+                "3 tomatoes, deseeded and diced",
+                "1/2 red onion , finely chopped",
+                "Finely chopped coriander / cilantro (optional)",
+                "1 1/2 cups / 150g shredded cheese of choice (melting kind)"
+            ],
+            "Instructions": [
+                "Heat oil in a skillet over high heat. Add garlic and onion, cook for 2 minutes until onion is lightly browned. Add beef and cook, breaking it up as you go, until it turns from red to brown.",
+                "Add Taco Seasoning (or use 1 packet store bought) and cook for 1 minute. Then add tomato paste and water, cook for 3 minutes until the water is mostly evaporated but the beef is still juicy, not dried out. Set aside to cool for 10 minutes – piping hot filling will steam the burrito, making the tortilla soggy.",
+                "Optional: If not warming rolled burrito, warm the tortillas before rolling (per packet directions).",
+                "Place a burrito on a work surface. Place 1/4 – 1/3 cup of rice just below the centre. Top with 1/4 – 1/3 cup beef, then some lettuce, corn, black beans, tomato,  a sprinkle of red onion, coriander and cheese.",
+                "Fold up the bottom to cover the filling then fold the edges in. Roll up tightly, serve as is or heat per below.",
+                "HEATING: To warm through, pan fry (dry pan) in the foil over medium high heat for a few minutes on each side to slightly crisp and warm the outside. Or for 10+ minutes on a medium low heat if you want to melt the cheese. Or they can be baked at 180C/350F for 20 minutes in the foil – this will warm them all the way through and crisp up the tortilla slightly. If they are straight from the fridge, they will take around 30 minutes to warm through."
+            ]
+        },
+        "Beef_Tacos": {
+            "ImageLocation": "./Images/Mains/beef_tacos.jpeg",
+            "Ingredients": [
+                "500g ground beef",
+                "1 onion, chopped",
+                "Some chopped coriander for garnish",
+                "1/2 tsp cayenne chilli powder",
+                "1/2 tsp salt",
+                "3/4 tsp cumin",
+                "1/2 tsp dried oregano",
+                "1/4 tsp garlic powder",
+                "1/4 tsp onion powder",
+                "1 tbsp tomato purée",
+                "8 small wraps"
+            ],
+            "Instructions": [
+                "Heat a pan over medium heat and add some oil. Once up to heat cook the onions for 2-3 minutes.",
+                "Once the onions are soft, add in the ground beef, breaking up the beef while cooking until browned.",
+                "Add the tomato purée and spices to the beef and cook for a few more minutes.",
+                "While the beef finishes off cooking, heat another pan over medium high heat and fry each side of the wraps for about 30 seconds, just enough to give some colour and crispness.",
+                "Remove the wraps and fold carefully into a taco shape.",
+                "Fill the tacos with the beef and sprinkle with the coriander"
+            ]
+        },
+        "Bolognese": {
+            "ImageLocation": "./Images/Mains/Spaghetti-Bolognese.webp",
+            "Ingredients": [
+                "1 1/2 tbsp olive oil",
+                "2 garlic cloves, minced",
+                "1 Onion, finely chopped",
+                "500g ground beef",
+                "125ml dry red wine (sub water of beef stock)",
+                "2 beef bouillon cubes",
+                "800g crushed tomato",
+                "2 tbsp tomato purée",
+                "2 tsp white sugar, if needed",
+                "2 tsp Worcestershire sauce",
+                "2 dried bay leaves",
+                "2 sprigs fresh thyme (or 1/2 tsp dried thyme or oregano)",
+                "Salt and pepper",
+                "400g pasta",
+                "Parmesan cheese and finely chopped parsley (optional)"
+            ],
+            "Instructions": [
+                "Sauté – Heat oil in a large pot or deep skillet over medium high heat. Add onion and garlic, cook for 3 minutes or until light golden and softened.",
+                "Cook beef – Turn heat up to high and add beef. Cook, breaking it up as your go, until browned.",
+                "Reduce wine – Add red wine. Bring to simmer and cook for 1 minute, scraping the bottom of the pot, until the alcohol smell is gone.",
+                "Simmer – Add the remaining ingredients. Stir, bring to a simmer then turn down to medium so it bubbles gently. Cook for 20 – 30 minutes (no lid), adding water if the sauce gets too thick for your taste. Stir occasionally.",
+                "Slow simmer option: really takes this to another level, if you have the time! Add 3/4 cup of water, cover with lid and simmer on very low for 2 – 2.5 hours, stirring every 30 minutes or so. (Note 5) Uncover, simmer 20 minutes to thicken sauce.",
+                "Taste and add more salt it desired. Serve over pasta."
+            ]
+        },
+        "Chicken_and_Chorizo_Risotto": {
+            "ImageLocation": "./Images/Mains/Chicken_and_Chorizo_Risotto.jpg",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Chicken_Chow_Mein": {
+            "ImageLocation": "./Images/Mains/Chicken-Chow-Mein.webp",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Chicken_Katsu_Curry": {
+            "ImageLocation": "./Images/Mains/Chicken_Katsu_Curry.jpg",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Chicken_Shawarma": {
+            "ImageLocation": "./Images/Mains/Chicken_Shawarma.webp",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Chicken_Tikka": {
+            "ImageLocation": "./Images/Mains/Chicken_Tikka.webp",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Chilli_Con_Carne": {
+            "ImageLocation": "./Images/Mains/Chilli_Con_Carne.jpg",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Chilli_Dog": {
+            "ImageLocation": "./Images/Mains/Chilli_Dog.jpg",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Lasagne": {
+            "ImageLocation": "./Images/Mains/Lasagne.jpg",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Meatballs": {
+            "ImageLocation": "./Images/Mains/Meatballs.webp",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Pasta_Baked": {
+            "ImageLocation": "./Images/Mains/Pasta_Baked.jpg",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
+        "Sweet_and_Sour_Chicken": {
+            "ImageLocation": "./Images/Mains/Sweet_and_Sour_Chicken.webp",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ]
         }
     },
     "Sides": {
