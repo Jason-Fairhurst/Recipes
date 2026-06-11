@@ -154,6 +154,33 @@
                 ""
             ]
         },
+        "Chicken_Curry": {
+            "ImageLocation": "./Images/Mains/Chicken_Curry.jpg",
+            "Ingredients": [
+                "2 medium onions",
+                "8-10 tbsp vegetable oil",
+                "3 bay leaves",
+                "3 cardamom pods",
+                "1 cinnamon stick",
+                "2-3 whole cloves",
+                "2 tsp ginger garlic paste",
+                "2 large tomatoes",
+                "Corriander",
+                "Tomato purée",
+                "1 tsp tumeric",
+                "1 tsp cumin powder",
+                "1 tsp chilli powder",
+                "1.5-2 tsp coriander powder",
+                "Salt to taste",
+                "Green chillis",
+                "600g chicken",
+                "1 tsp Garam masala",
+                "Kasuri methi (fenugreek leaves)"
+            ],
+            "Instructions": [
+                ""
+            ]
+        },
         "Chicken_Katsu_Curry": {
             "ImageLocation": "./Images/Mains/Chicken_Katsu_Curry.jpg",
             "Ingredients": [
@@ -335,23 +362,24 @@
                 "Before serving, dust with icing sugar and top with fresh berries for an extra touch."
             ]
         },
-        "Toblerone_Cheesecake": {
-            "ImageLocation": "./Images/Desserts/Toblerone-cheesecake.jpg",
+        "Lemon_Drizzle_Cake": {
+            "ImageLocation": "./Images/Desserts/Lemon_Drizzle_Cake.webp",
             "Ingredients": [
-                "200g Digestive Biscuits (Chocolate Digestives are best)",
-                "100g Butter",
-                "300g Cream Cheese",
-                "200g Whipping Cream",
-                "200g Toblerone"
+                "250g unsalted butter, plus extra for greasing tin",
+                "250g caster sugar",
+                "4 Eggs, medium",
+                "250g self-raising flour",
+                "3 lemons",
+                "100g icing sugar"
             ],
             "Instructions": [
-                "Crush the digestives, and melt the butter in a pan. Once melted, add the digestives to the butter and mix together.",
-                "Place the base mixture in a springform cake tin (approx 8 inches) and press down until firm and even.",
-                "Melt the Toblerone in a bowl over a pot of simmering water.",
-                "Empty the cheese into a large bowl and beat until smooth. Lightly whisk the cream until almost stiff and then add to the cheese.",
-                "Add the melted toblerone to the mixture and mix well (the whole mixture should be light brown).",
-                "Pour the mixture onto the base, smoothing out. Bang the cake tin on a solid surface to ensure the mixture settles.",
-                "Refrigerate for 2-3 hours, then add some small pieces of chocolate to the top to serve."
+                "Preheat the oven to 160°C/325°F fan, 180°C/350°F/Gas 4 and grease your loaf tin and line with baking paper",
+                "Cream the butter and sugar together in a bowl until pale and fluffy.",
+                "Mix in the eggs, flour and the zest from the lemons, then beat until smooth.",
+                "Spoon into the prepared tin and smooth out. Bake for 1 hour 15 minutes or until a skewer comes out clean.",
+                "Once the cake is done, remove from the oven and use a skewer to poke holes all over it.",
+                "Mix the icing sugar with enough of the juice from the lemons to make a thin paste, adding the liquid gradually so it stays nice and smooth (normally 1 and a half lemons).",
+                "Pour all over the cake and allow to sink in."
             ]
         },
         "Mince_Pies": {
@@ -400,6 +428,25 @@
                 "Put a baking tray in the oven. Make a well in the dry mix, then add the liquid and combine it quickly with a cutlery knife – it will seem pretty wet at first.",
                 "Scatter some flour onto the work surface and tip the dough out. Dredge the dough and your hands with a little more flour, then fold the dough over 2-3 times until it’s a little smoother. Pat into a round about 4cm deep. Take a 5cm cutter (smooth-edged cutters tend to cut more cleanly, giving a better rise) and dip it into some flour. Plunge into the dough, then repeat until you have four scones. You may need to press what’s left of the dough back into a round to cut out another four.",
                 "Brush the tops with a beaten egg, then carefully arrange on the hot baking tray. Bake for 10 mins until risen and golden on the top. Eat just warm or cold on the day of baking, generously topped with jam and clotted cream. If freezing, freeze once cool. Defrost, then put in a low oven (about 160C/140C fan/gas 3) for a few minutes to refresh."
+            ]
+        },
+        "Toblerone_Cheesecake": {
+            "ImageLocation": "./Images/Desserts/Toblerone-cheesecake.jpg",
+            "Ingredients": [
+                "200g Digestive Biscuits (Chocolate Digestives are best)",
+                "100g Butter",
+                "300g Cream Cheese",
+                "200g Whipping Cream",
+                "200g Toblerone"
+            ],
+            "Instructions": [
+                "Crush the digestives, and melt the butter in a pan. Once melted, add the digestives to the butter and mix together.",
+                "Place the base mixture in a springform cake tin (approx 8 inches) and press down until firm and even.",
+                "Melt the Toblerone in a bowl over a pot of simmering water.",
+                "Empty the cheese into a large bowl and beat until smooth. Lightly whisk the cream until almost stiff and then add to the cheese.",
+                "Add the melted toblerone to the mixture and mix well (the whole mixture should be light brown).",
+                "Pour the mixture onto the base, smoothing out. Bang the cake tin on a solid surface to ensure the mixture settles.",
+                "Refrigerate for 2-3 hours, then add some small pieces of chocolate to the top to serve."
             ]
         },
         "Victoria_Sponge_Cake": {
