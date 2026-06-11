@@ -446,7 +446,16 @@
             "Instructions": [
                 "Combine ingredients.",
                 "Store in an airtight container.",
-                "Makes 2.5 tablespoons. Combine with 1lbs/500g mince meat, 1/2 cup water, 1 diced onion and 2 tablespoons of tomato paste."
+                "Makes 2.5 tablespoons. Combine with 1lbs/500g mince meat, 1/2 cup water, 1 diced onion and 2 tablespoons of tomato purée."
+            ]
+        },
+        "Pico_de_gallo": {
+            "ImageLocation": "./Images/Miscellaneous/Pico_de_gallo.jpg",
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
             ]
         }
     }
