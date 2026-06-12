@@ -72,7 +72,7 @@
                 "1 cup black beans",
                 "3 tomatoes, deseeded and diced",
                 "1/2 red onion , finely chopped",
-                "Finely chopped coriander / cilantro (optional)",
+                "Finely chopped coriander / coriander (optional)",
                 "1 1/2 cups / 150g shredded cheese of choice (melting kind)"
             ],
             "Instructions": [
@@ -139,19 +139,51 @@
         "Chicken_and_Chorizo_Risotto": {
             "ImageLocation": "./Images/Mains/Chicken_and_Chorizo_Risotto.jpg",
             "Ingredients": [
-                ""
+                "2 tbsp olive oil",
+                "1 Chorizo, chopped",
+                "1 red pepper, diced",
+                "1 yellow pepper, diced",
+                "2 chicken breasts, cubed",
+                "2 onions, diced",
+                "3 cups of Arborio rice",
+                "710ml of vegetable or chicken stock",
+                "Glug of white wine (optional)",
+                "Handful of frozen peas",
+                "Generous shaving of Parmesan cheese",
+                "Knob of butter"
             ],
             "Instructions": [
-                ""
+                "Fry the onions in a large pan until soft. In a separate frying pan, fry the peppers until brown around the edges and soft. Put peppers aside.",
+                "In the pepper pan, fry the chicken on high heat until golden brown and cooked through. Place aside and keep warm.",
+                "Add rice to onion. Fry for 2 minutes. Add wine if using and stir tull evaporated. Gradually add the stock, ladle by ladle.",
+                "Once all the liquid has been absorbed and rice is soft enough, add Chorizo, cooked chicken, peppers and the peas. Stir for a further 5 minutes or until heated through.",
+                "Allow the chorizo juices to seep into the rice. Add the Parmesan and knob of butter. Stir through and season to taste."
             ]
         },
         "Chicken_Chow_Mein": {
             "ImageLocation": "./Images/Mains/Chicken-Chow-Mein.webp",
             "Ingredients": [
-                ""
+                "450g chicken breast",
+                "3 tbsp oil",
+                "340 g chow mein noodles, (uncooked noodles)",
+                "140 g cabbage",
+                "1 large carrot, julienned",
+                "1/2 batch spring onions",
+                "2 garlic cloves",
+                "4 tbsp oyster sauce, or added to taste - Chow Mein Sauce",
+                "3 tbsp low sodium soy sauce - Chow Mein Sauce",
+                "3 tbsp light sesame oil, (not toasted) - Chow Mein Sauce",
+                "120ml chicken broth - Chow Mein Sauce",
+                "1 tbsp corn starch - Chow Mein Sauce",
+                "1 tbsp granulated sugar - Chow Mein Sauce"
             ],
             "Instructions": [
-                ""
+                "In a small mixing bowl, use a whisk to combine oyster sauce, granulated sugar, sesame oil, soy sauce, chicken broth and cornstarch. Set aside.",
+                "Cook your noodles according to package instructions then drain, rinse with cold water and set aside.",
+                "Heat a large wok or pan with olive oil over medium-heat. Cut your chicken breasts into bite-sized strips and cook them in the oil until golden brown. Remove strips and set aside.",
+                "Add carrots, cabbage and pressed garlic and saute for a few minutes until veggies are slightly softened and the cabbage is a bit translucent.",
+                "Add chicken and noodles back into the pan. Pour sauce over the top and continue cooking all the ingredients together for another 2 minutes.",
+                "Garnish your chow mein with chopped green onions and serve the noodles straight from the pan and piping hot!"
             ]
         },
         "Chicken_Curry": {
@@ -184,37 +216,124 @@
         "Chicken_Katsu_Curry": {
             "ImageLocation": "./Images/Mains/Chicken_Katsu_Curry.jpg",
             "Ingredients": [
-                ""
+                "2 chicken breasts",
+                "1 tsp garam masala",
+                "Vegetable oil for deep frying",
+                "100g seasoned plain flour (plain flour with a dash of salt)",
+                "1 egg",
+                "200g Panko Breadcrumbs",
+                "2 tbsp vegetable oil - Katsu curry sauce",
+                "1 onion, finely chopped - Katsu curry sauce",
+                "1 clove of garlic, crushed - Katsu curry sauce",
+                "1 bay leaf - Katsu curry sauce",
+                "1 tbsp mild curry powder - Katsu curry sauce",
+                "1/2 tsp garam masala - Katsu curry sauce",
+                "1/2 tsp paprika - Katsu curry sauce",
+                "1/2 tsp turmeric - Katsu curry sauce",
+                "2 tbsp flour & 1 tsp cornflour - Katsu curry sauce",
+                "500ml chicken stock - Katsu curry sauce",
+                "1 tsp brown sugar - Katsu curry sauce",
+                "2 tsp honey - Katsu curry sauce",
+                "1-2 tbsp tamari (Japanese soy sauce) - Katsu curry sauce"
             ],
             "Instructions": [
-                ""
+                "Get your chicken breasts and flatten them with a rolling pin until they are about 1cm thick. Rub with 1 tsp garam masala to marinade, and place to the side.",
+                "Next prepare the 3 bowls for the “batter station”. In the first bowl, place the seasoned plain flour. In the second, beat one egg. In the third, pour in 200g Panko breadcrumbs.",
+                "Add the chopped onion to a saucepan with 2 tbsp vegetable oil and cook on medium heat for 2-3 minutes, until softened.",
+                "Now add your garlic and the spices: one bay leaf, mild curry powder, garam masala, paprika, and turmeric. Cook over medium heat for about 1 minute.",
+                "Add a dash more oil to the saucepan with the plain flour and corn flour. Stir over low heat for approximately 2 minutes.",
+                "Next, add your chicken stock bit by bit, stirring as you go to ensure a smooth sauce. Once all the stock is added, season the sauce by adding your brown sugar, tamari, and honey with a dash of salt.",
+                "Bring your sauce to the boil and then leave to simmer for 10-15 minutes, stirring occasionally.",
+                "Now to batter the chicken, start by dipping the seasoned chicken in the seasoned flour mixture, shaking off any excess flour, before then dipping it into the egg. Make sure the chicken is well-coated, and then lie the piece flat in the Panko breadcrumbs. Turn it over to coat the other side.",
+                "Get a thick, large saucepan or wok (to prevent the oil from spitting over the side). Pour in your oil, making sure never to fill more than halfway up your pan. Bring it to heat over a medium-high flame.",
+                "Shallow fry the chicken pieces on one side until golden and crispy, then carefully turn them over and repeat on the other side. You will know when the pieces are done when they float freely at the top of the oil and show a golden-brown finish.",
+                "Remove the chicken from the oil using a slotted spoon, and drain the pieces on kitchen paper.",
+                "Slice the chicken and serve over Japanese steamed rice, topped with as much sauce as you want!"
             ]
         },
         "Chicken_Shawarma": {
             "ImageLocation": "./Images/Mains/Chicken_Shawarma.webp",
             "Ingredients": [
-                ""
+                "500g chicken thigh fillets, skinless and boneless",
+                "1 garlic clove",
+                "1 tsp ground coriander",
+                "1 tsp ground cumin",
+                "1 tsp ground cardamon",
+                "1/2 tsp ground cayenne pepper",
+                "1 tsp smoked paprika",
+                "1 tsp salt",
+                "Black pepper",
+                "1 tbsp lemon juice",
+                "1.5 tbsp olive oil",
+                "1.5 tbsp greek yogurt",
+                "Flatbreads",
+                "Sliced lettuce",
+                "Red onion, finely sliced",
+                "Hot sauce of choice (optional)"
             ],
             "Instructions": [
-                ""
+                "Combine the marinade ingredients with the chicken in a large bowl the chicken. Marinate 24 hours (minimum 3 hours).",
+                "Heat a large non-stick pan with 1 tablespoon of oil over medium high heat, or lightly brush a BBQ hotplate/grills with oil and heat to medium high.",
+                "Place chicken in the pan or on the grill and cook the first side for 4 to 5 minutes until nicely charred. Turn and cook the other side for 3 to 4 minutes.",
+                "Remove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.",
+                "Slice the chicken into strips and serve on flatbread with lettuce and onion"
             ]
         },
         "Chicken_Tikka": {
             "ImageLocation": "./Images/Mains/Chicken_Tikka.webp",
             "Ingredients": [
-                ""
+                "500g chicken, cubed",
+                "1 tsp salt",
+                "1 tsp Kashmiri red chilli powder",
+                "1/4 tsp turmeric",
+                "3/4 tsp roasted cumin powder",
+                "2 teaspoons coriander powder",
+                "1 teapsoon garam masala",
+                "1/2 teaspoon black pepper",
+                "1 tbsp kasuri methi (dried fenugreek leaves)",
+                "1 tbsp lemon juice",
+                "1.5 tbsp ginger garlic paste",
+                "1 tbsp oil",
+                "1.5 tbsp greek yogurt",
+                "1 bell pepper, sliced - optional",
+                "1 medium onion, sliced - optional"
             ],
             "Instructions": [
-                ""
+                "Add chicken and spices into a large mixing bowl and cover for a minimum of 8 hours and up to 48 hours.",
+                "Add oil to the pan and place the chicken tikka over the pan. Grill on a medium heat for 4-5 minutes, turn them to the otherside and grill for another 4-5 minutes until fully cooked."
             ]
         },
         "Chilli_Con_Carne": {
             "ImageLocation": "./Images/Mains/Chilli_Con_Carne.jpg",
             "Ingredients": [
-                ""
+                "1 tbsp olive oil",
+                "3 garlic cloves , minced",
+                "1 onion , diced",
+                "1 red pepper",
+                "500g beef mince",
+                "3 tbsp tomato purée",
+                "800g chopped tomatos",
+                "420g can red kidney beans, drained",
+                "2 beef stock cubes, crumbled",
+                "1 1/2 tsp sugar (any type)",
+                "1/2 – 1.5 cups water",
+                "1 – 2 tsp cayenne pepper (adjust to taste)",
+                "4 tsp paprika powder",
+                "5 tsp cumin powder",
+                "2 tsp garlic powder",
+                "2 tsp onion powder",
+                "2 tsp oregano",
+                "1.5 tsp salt"
             ],
             "Instructions": [
-                ""
+                "Heat oil in a large skillet over medium high heat. Add garlic and onion, cook for 1 minute, then add capsicum and cook for 2 minutes until onion is translucent.",
+                "Turn heat up to high and add beef. Cook, breaking it up as you go, until mostly browned.",
+                "Add Chili Spice Mix. Cook until beef is browned all over. (This step helps release extra flavour from the spices)",
+                "Add remaining ingredients, with 1/2 cup of water for Quick Cook or 1 1/2 cups for Slow Cook. Bring to simmer, then adjust heat per step below:",
+                "Quick Cook – 20 to 40 minutes, uncovered, on medium low heat so it’s bubbling gently; OR",
+                "Slow Cook – 1.5 hours to 2 hours, covered, on low heat so it’s bubbling very gently.",
+                "Adjust salt to taste just before serving.",
+                "Serve over rice, or ladle into bowls and serve with corn chips or warm tortillas on the side with Toppings of choice."
             ]
         },
         "Chilli_Dog": {
@@ -499,10 +618,17 @@
         "Pico_de_gallo": {
             "ImageLocation": "./Images/Miscellaneous/Pico_de_gallo.jpg",
             "Ingredients": [
-                ""
+                "1 cup finely chopped white onion (about 1 small onion)",
+                "1 medium jalapeño or serrano pepper, ribs and seeds removed, finely chopped (decrease or omit if sensitive to spice, or add another if you love heat)",
+                "1/4 cup lime juice",
+                "3/4 teaspoon fine sea salt, more to taste",
+                "500g ripe red tomatoes (about 8 small or 4 large), chopped",
+                "1/2 cup finely chopped fresh coriander (about 1 bunch)"
             ],
             "Instructions": [
-                ""
+                "In a medium serving bowl, combine the chopped onion, jalapeño, lime juice and salt. Let it marinate for about 5 minutes while you chop the tomatoes and coriander.",
+                "Add the chopped tomatoes and coriander to the bowl and stir to combine. Taste, and add more salt if the flavors don’t quite sing.",
+                "For the best flavor, let the mixture marinate for 15 minutes or several hours in the refrigerator. Serve as a dip, or with a slotted spoon or large serving fork to avoid transferring too much watery tomato juice with your pico. Pico de gallo keeps well in the refrigerator, covered, for up to 4 days."
             ]
         }
     }

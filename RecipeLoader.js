@@ -21,7 +21,8 @@ function initApp() {
             instructions = listAllItems[course][recipe].Instructions;
 
             addDataToHTML(recipe);
-        });
+        })
+        .catch(error => location.replace("index.html"));
 }
 
 //Add recipe to page
