@@ -26,7 +26,7 @@ function initApp() {
             addDataToHTML(recipe);
             addDataToNavBar();
         })
-        .catch(error => location.replace("index.html"));
+    //.catch(error => location.replace("index.html"));
 }
 
 //Add recipe to page
@@ -91,11 +91,24 @@ function addDataToNavBar() {
             courseRecipesHTML += `<a href="Recipes.html?CourseName=${course}&RecipeName=${Object.keys(listAllItems[course])[j]}">${Object.keys(listAllItems[course])[j].replaceAll("_", " ")}</a>`;
         };
         listProductNavHTML.innerHTML += `
-        <button onclick="recipeDrop()" id="${course}Button">
+        <button id="${course}DropDownButton">
             ${course} <i class="fa fa-caret-down show"></i><i class="fa fa-caret-up"></i>
         </button>
         <div id="${course}Dropdown" class="dropdown-Recipes">
             ${courseRecipesHTML}
         </div>`;
     }
+
+    let currentButton = document.querySelectorAll("[id$='DropDownButton']");
+    currentButton.forEach(currentButton => {
+        ['click', 'keypress'].forEach(evnt => {
+            currentButton.addEventListener(evnt, (event) => {
+                if (event.type == 'click') {
+                    currentButton.nextElementSibling.classList.toggle("show");
+                    currentButton.querySelector(".fa-caret-down").classList.toggle("show");
+                    currentButton.querySelector(".fa-caret-up").classList.toggle("show");
+                }
+            });
+        });
+    });
 }
