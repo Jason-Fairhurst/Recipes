@@ -1,3 +1,14 @@
+@mixin navbuttons {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 16px;
+    border: 0;
+    font-size: inherit;
+    text-align: left;
+    color: inherit;
+    cursor: pointer;
+}
+
 .logo-banner {
     .icon {
         float: left;
@@ -19,20 +30,44 @@
             max-width: 480px;
             position: absolute;
             top: 65px;
-            overflow: auto;
             background-color: $secondary-bg-color;
             border: 1px solid $font-color-pale;
             box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
             z-index: 1;
 
-            a {
-                display: block;
-                padding: 12px 16px;
-                float: none;
-                color: $font-color-pale;
-                text-decoration: none;
-                text-align: left;
+            .dropdown-Course {
+                color: $font-color-light;
+
+                button {
+                    width: 100%;
+                    @include navbuttons;
+                    background: $primary;
+                     &:focus {
+                        outline: 1px dashed $font-color-light;
+                     }
+                }
+
+                i {
+                    color: inherit;
+                }
+
+                .dropdown-Recipes {
+                    display: none;
+                    color: $font-color-pale;
+                    background: $secondary-bg-color;
+                    min-width: 160px;
+                    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+                    max-height: 129px;
+                    overflow: auto;
+
+                    a {
+                        @include navbuttons;
+                    }
+
+                }
+
             }
+
         }
 
     }
@@ -58,8 +93,13 @@
     .change.mobileBar3 {
         transform: translate(0, -6px) rotate(45deg);
     }
+}
 
-    .show {
-        display: block !important;
-    }
+.fa-caret-down,
+.fa-caret-up {
+    display: none;
+}
+
+.show {
+    display: block !important;
 }

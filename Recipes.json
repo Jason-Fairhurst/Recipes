@@ -312,7 +312,7 @@
                 "1 red pepper",
                 "500g beef mince",
                 "3 tbsp tomato purée",
-                "800g chopped tomatos",
+                "800g chopped tomatoes",
                 "420g can red kidney beans, drained",
                 "2 beef stock cubes, crumbled",
                 "1 1/2 tsp sugar (any type)",
@@ -339,46 +339,60 @@
         "Chilli_Dog": {
             "ImageLocation": "./Images/Mains/Chilli_Dog.jpg",
             "Ingredients": [
-                ""
+                "8 slices of bacon",
+                "1 onion, chopped",
+                "500g beef mince",
+                "2 garlic cloves, minced",
+                "800g chopped tomatoes",
+                "240ml beef stock",
+                "1 tbsp honey",
+                "1 tbsp sweet paprika",
+                "1 tsp ground cumin",
+                "1 tsp chilli powder",
+                "Salt",
+                "As many hot dogs and buns as you have people",
+                "Chopped red onion, for garnish",
+                "Shredded cheddar (or jack) cheese, for garnish"
             ],
             "Instructions": [
-                ""
+                "Fry the bacon over medium heat until it begins to get crispy, then add the chopped onions and fry over high heat, stirring often, until they begin to brown.",
+                "Stir in the ground beef. Cook over high heat, stirring occasionally, until the beef is browned, a few minutes.",
+                "When the beef is about halfway browned, stir in the chopped garlic.",
+                "Once the beef is well browned, stir in the chopped tomatoes, honey and beef broth.",
+                "Add all the spices and stir well. Bring to a simmer and taste. Add salt if it needs it.",
+                "Cook the chilli on a gentle simmer for at least 30 minutes before grilling the hot dogs.",
+                "Grill the hot dogs over a medium heat until they get a light char.",
+                "Serve the hot dogs on the buns with plenty of chilli on top."
             ]
         },
         "Lasagne": {
             "ImageLocation": "./Images/Mains/Lasagne.jpg",
             "Ingredients": [
-                ""
+                "2 tbsp olive oil",
+                "900g/2lb beef mince",
+                "2 onions, roughly chopped",
+                "4 sticks celery, finely chopped (optional)",
+                "2 garlic cloves, crushed",
+                "2 level tbsp plain flour",
+                "150ml/¼ pint beef stock",
+                "1 tbsp redcurrant jelly or 1 tsp caster sugar (optional)",
+                "3 tbsp tomato purée",
+                "1 tbsp chopped thyme",
+                "2 x 400g tins chopped tomatoes",
+                "12 lasagne sheets",
+                "75g/3oz mature cheddar, grated",
+                "1 jar (450g) of béchamel sauce"
             ],
             "Instructions": [
-                ""
-            ]
-        },
-        "Meatballs": {
-            "ImageLocation": "./Images/Mains/Meatballs.webp",
-            "Ingredients": [
-                ""
-            ],
-            "Instructions": [
-                ""
-            ]
-        },
-        "Pasta_Baked": {
-            "ImageLocation": "./Images/Mains/Pasta_Baked.jpg",
-            "Ingredients": [
-                ""
-            ],
-            "Instructions": [
-                ""
-            ]
-        },
-        "Sweet_and_Sour_Chicken": {
-            "ImageLocation": "./Images/Mains/Sweet_and_Sour_Chicken.webp",
-            "Ingredients": [
-                ""
-            ],
-            "Instructions": [
-                ""
+                "Preheat the oven to160C/140C Fan/Gas 3.",
+                "For the ragu, heat a large frying pan until hot and add the oil. Cook the mince until browned all over. Remove from the heat and transfer to a plate.",
+                "Add the onion, celery (if using) and garlic to the pan and cook until softened. Return the meat to the pan and stir in the flour. Add the stock and bring to the boil. Add the redcurrant jelly (or sugar), tomato purée and thyme, then stir well.",
+                "Stir in the tinned tomatoes. Bring to the boil again, cover and simmer in the oven for 1–1½ hours, or until the beef is tender.",
+                "For the lasagne, put one third of the meat sauce in the base of a 2.3 litre/4 pint shallow ovenproof dish. Spoon one third of the white sauce on top. Season with salt and pepper. Arrange one layer of lasagne sheets on top.",
+                "Spoon half of the remaining meat sauce on top and then half of the white sauce. Season with salt and pepper. Put another layer of lasagne sheets on top, then the remaining meat sauce and remaining white sauce. Sprinkle over the cheddar.",
+                "Cover and place in the fridge for 6 hours before cooking (so that the pasta can start to soften).",
+                "Preheat the oven to 200C/180C Fan/Gas 6.",
+                "Cook in the middle of the oven for about 45 minutes – or until golden brown on top, bubbling around the edges and the pasta is soft."
             ]
         }
     },

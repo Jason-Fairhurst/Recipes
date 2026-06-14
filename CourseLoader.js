@@ -22,7 +22,7 @@ function addDataToHomeHTML() {
 
 
     for (var i = 0; i < numberOfCourses; i++) {
-        var course = courseOptions[i];
+        course = courseOptions[i];
         courseRecipesHTML = ``;
         for (var j = 0; j < Object.keys(listAllItems[course]).length; j++) {
             courseRecipesHTML += `<li><a href="Recipes.html?CourseName=${course}&RecipeName=${Object.keys(listAllItems[course])[j]}">${Object.keys(listAllItems[course])[j].replaceAll("_"," ")}</a></li>`;

@@ -10,28 +10,24 @@ function navDropdown() {
     navDropBtn.classList.toggle("show");
 }
 
+
 /*
-//Dropdown shows when clicked
-function dropdown() {
-    document.getElementById("leagueDropdown").classList.toggle("show");
-    document.getElementsByClassName("fa-caret-down")[0].classList.toggle("show");
-    document.getElementsByClassName("fa-caret-up")[0].classList.toggle("show");
-}
+let courseButton = document.getElementById(`StartersButton`);
+//['click', 'keypress'].forEach(evnt => {
+    courseButton.addEventListener('click', () => {
+        //alert("test");
+        //if (event.key === 'Enter' || event.type == 'click') {
+            courseButton.nextElementSibling.querySelector(".dropdown-Recipes").classList.toggle("show");
+            courseButton.querySelector(".fa-caret-down").classList.toggle("show");
+            courseButton.querySelector(".fa-caret-up").classList.toggle("show");
+        //}
+    });
+//});*/
 
-function navBarReset() {
-    if (document.getElementById("leagueDropdown").classList.contains('show')) {
-        document.getElementById("leagueDropdown").classList.remove('show');
-        document.getElementsByClassName("fa-caret-down")[0].classList.add('show');
-        document.getElementsByClassName("fa-caret-up")[0].classList.remove('show');
-    }
-}
+function recipeDrop() {
+    let currentButton = document.getElementById(document.activeElement.id);
 
-// Close the dropdown if the user clicks outside of it
-window.onclick = function (event) {
-    if (!event.target.matches('.dropbtn')) {
-        navBarReset()
-    }
+    currentButton.nextElementSibling.classList.toggle("show");
+    currentButton.querySelector(".fa-caret-down").classList.toggle("show");
+    currentButton.querySelector(".fa-caret-up").classList.toggle("show");
 }
-
-window.addEventListener("resize", navBarReset);
-*/

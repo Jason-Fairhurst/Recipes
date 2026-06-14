@@ -1,10 +1,13 @@
 let listProductHTML = document.querySelector(".main-container");
+let listProductNavHTML = document.querySelector(".dropdown-Course");
 let listAllItems = {};
 let imageLocation = "";
 let ingredients = [];
 let instructions = [];
+let courseOptions = [];
+let courseRecipesHTML = ``;
 
-initApp("Chicken_and_Sweetcorn_Soup");
+initApp();
 
 function initApp() {
     let URLparameters = new URLSearchParams(window.location.search);
@@ -21,6 +24,7 @@ function initApp() {
             instructions = listAllItems[course][recipe].Instructions;
 
             addDataToHTML(recipe);
+            addDataToNavBar();
         })
         .catch(error => location.replace("index.html"));
 }
@@ -71,4 +75,27 @@ function addDataToHTML(Recipe) {
             </div>
         </section>
         `;
+}
+
+
+function addDataToNavBar() {
+    //Gets a list of all courseOptions
+    courseOptions = Object.keys(listAllItems);
+    var numberOfCourses = courseOptions.length;
+    var course = "";
+
+    for (var i = 0; i < numberOfCourses; i++) {
+        course = courseOptions[i];
+        courseRecipesHTML = ``;
+        for (var j = 0; j < Object.keys(listAllItems[course]).length; j++) {
+            courseRecipesHTML += `<a href="Recipes.html?CourseName=${course}&RecipeName=${Object.keys(listAllItems[course])[j]}">${Object.keys(listAllItems[course])[j].replaceAll("_", " ")}</a>`;
+        };
+        listProductNavHTML.innerHTML += `
+        <button onclick="recipeDrop()" id="${course}Button">
+            ${course} <i class="fa fa-caret-down show"></i><i class="fa fa-caret-up"></i>
+        </button>
+        <div id="${course}Dropdown" class="dropdown-Recipes">
+            ${courseRecipesHTML}
+        </div>`;
+    }
 }
