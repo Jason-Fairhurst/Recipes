@@ -4,3 +4,30 @@
     justify-content: center;
     align-items: center;
 }
+
+.panel ul {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    list-style: none;
+
+    li {
+        box-shadow: rgba(0, 0, 0, 0.1) 0 4px 10px 0;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+
+        &:hover {
+            background-color: $secondary-bg-color;
+        }
+    }
+
+}
+
+.RecipeLink {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    img {
+        width: 120px;
+    }
+}

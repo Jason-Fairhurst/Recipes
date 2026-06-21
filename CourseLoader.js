@@ -25,7 +25,16 @@ function addDataToHomeHTML() {
         course = courseOptions[i];
         courseRecipesHTML = ``;
         for (var j = 0; j < Object.keys(listAllItems[course]).length; j++) {
-            courseRecipesHTML += `<li><a href="Recipes.html?CourseName=${course}&RecipeName=${Object.keys(listAllItems[course])[j]}">${Object.keys(listAllItems[course])[j].replaceAll("_"," ")}</a></li>`;
+            let recipeItem = Object.keys(listAllItems[course])[j];
+            let recipeItemSpace = recipeItem.replaceAll("_"," ");
+            let recipeItemImage = listAllItems[course][recipeItem].ImageLocation;
+            
+            courseRecipesHTML += `<li>
+                                    <a href="Recipes.html?CourseName=${course}&RecipeName=${recipeItem}" class="RecipeLink">
+                                        <img src="${recipeItemImage}" alt="${recipeItemSpace}">
+                                        ${recipeItemSpace}
+                                    </a>
+                                    </li>`;
         };
         listProductHTML.innerHTML += `
         <article class="${course}">
