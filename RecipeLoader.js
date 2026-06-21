@@ -26,7 +26,7 @@ function initApp() {
             addDataToHTML(recipe);
             addDataToNavBar();
         })
-    //.catch(error => location.replace("index.html"));
+    .catch(error => location.replace("index.html"));
 }
 
 //Add recipe to page
