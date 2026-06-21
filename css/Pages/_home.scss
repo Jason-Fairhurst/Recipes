@@ -3,6 +3,18 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    article {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        padding: 5px;
+    }
+}
+
+.accordion:focus {
+    text-decoration: underline;
+    border: 1px dashed $font-color;
 }
 
 .panel ul {

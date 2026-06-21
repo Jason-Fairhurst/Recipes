@@ -34,6 +34,7 @@ function addDataToHTML(Recipe) {
 
     var ingredientsHTML = ``;
     var instructionsHTML = ``;
+    let recipeItemSpace = Recipe.replaceAll("_", " ");
 
     ingredients.forEach((ingredient, index) => {
         ingredientsHTML += `
@@ -55,8 +56,8 @@ function addDataToHTML(Recipe) {
 
     listProductHTML.innerHTML += `
         <section class="RecipeNameImg">
-            <img class="RecipeImg" src=${imageLocation} alt=${Recipe}>
-            <h2 class="RecipeName">${Recipe.replaceAll("_", " ")}</h2>
+            <img class="RecipeImg" src="${imageLocation}" alt="${recipeItemSpace}">
+            <h2 class="RecipeName">${recipeItemSpace}</h2>
         </section>
         <section class="Ingredients">
             <h3>Ingredients</h3>
