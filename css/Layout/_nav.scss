@@ -53,8 +53,9 @@
 
                 .dropdown-Recipes {
                     display: none;
-                    color: $font-color-pale;
+                    color: $font-color;
                     background: $secondary-bg-color;
+                    scrollbar-color: $font-color-pale $primary-bg-color;
                     min-width: 160px;
                     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
                     max-height: 129px;
@@ -62,6 +63,10 @@
 
                     a {
                         @include navbuttons;
+
+                        &:hover {
+                            background: $primary-bg-color;
+                        }
                     }
 
                 }
